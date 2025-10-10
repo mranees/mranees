@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdullah Anees
 **Senior Full-Stack Developer**  
 💻 *[PHP | Laravel | VueJS | Livewire | Typescript]*  
-📍 Mokattam, Cairo | 📞 +20 100 474 3833 | 📧 abdalla.anees@yahoo.com  
+📍 Cairo, Egypt | 📧 abdalla.anees@yahoo.com  
 🔗 [LinkedIn](https://linkedin.com/in/abdalla-anees) | [GitHub](https://github.com/mranees)
 
 ---
