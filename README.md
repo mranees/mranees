@@ -34,8 +34,7 @@ Git, Docker, Agile Methodologies, Testing (Unit, Feature, Integration), Deployme
 
 ---
 
-## ⚡ GitHub Stats (Optional)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mranees&show_icons=true&theme=dracula)
+## ⚡ GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mranees&layout=compact&theme=dracula)
 
 ---
