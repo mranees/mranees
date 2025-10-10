@@ -37,5 +37,9 @@ Git, Docker, Agile Methodologies, Testing (Unit, Feature, Integration), Deployme
 ## ⚡ GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mranees&layout=compact&theme=dracula)
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
+
 ---
 > “Code should be simple, clean, and scalable — because great systems grow from elegant foundations.”
