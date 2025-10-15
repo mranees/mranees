@@ -5,6 +5,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 📍 Cairo, Egypt | 📧 abdalla.anees@yahoo.com  
 🔗 [LinkedIn](https://linkedin.com/in/abdalla-anees) | [GitHub](https://github.com/mranees)
 
