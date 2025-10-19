@@ -8,7 +8,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 📍 Cairo, Egypt | 📧 abdalla.anees@yahoo.com  
-🔗 [LinkedIn](https://linkedin.com/in/abdalla-anees) | [GitHub](https://github.com/mranees)
+🔗 [LinkedIn](https://linkedin.com/in/abdalla-anees) | [GitHub](https://github.com/mranees) | [Portfolio](https://mranees.github.io)
 
 ---
 
